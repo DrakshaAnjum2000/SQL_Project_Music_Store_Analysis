@@ -11,6 +11,8 @@ Genres: Genre information like ID, name, etc.
 
 # Database and Tools
 Postgre SQL
+
 PgAdmin4
+
 Schema- Music Store Database
 ![MusicDatabaseSchema](https://github.com/DrakshaAnjum2000/SQL_Project_Music_Store_Analysis/assets/108967981/62b2cc5f-9cad-41d2-9765-b2f5a5b21e56)
